@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vraj_patel_983" target="blank"><img src="https://img.shields.io/twitter/follow/vraj_patel_983?logo=twitter&style=for-the-badge" alt="vraj_patel_983" /></a> </p>
 
-- 🌱 I’m currently learning **python and blockchain**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **node.js , javascript**
 
